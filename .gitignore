@@ -1,0 +1,15 @@
+.gradle
+build
+lib/dependencies/
+.DS_Store
+out
+bootcamp-cordapp.iml
+logs/
+
+.idea/*.xml
+
+!.idea/gradle.xml
+!.idea/runConfigurations/*.xml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
