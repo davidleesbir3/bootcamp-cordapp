@@ -11,7 +11,7 @@ CorDapp is working once it passes both sets of tests defined in `src/test/java/j
 
 1. Download and install Oracle JDK 8 JVM (minimum supported version 8u131)
 
-       Download: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+       https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 2. Download and install IntelliJ Community Edition (supported versions 2017.x and 2018.x)
 
