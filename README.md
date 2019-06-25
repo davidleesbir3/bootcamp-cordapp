@@ -12,24 +12,18 @@ CorDapp is working once it passes both sets of tests defined in `src/test/java/j
 1. Download and install Oracle JDK 8 JVM (minimum supported version 8u131)
 
        Download: https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-       Install(Windows): https://www.javadrive.jp/start/install/index4.html
 
 2. Download and install IntelliJ Community Edition (supported versions 2017.x and 2018.x)
 
        https://www.jetbrains.com/idea/
 
-3. Download and install git.
-        
-        Windows: https://gitforwindows.org/
-        
-4. Download the bootcamp project including bootcamp-cordapp and .gradle.zip.
-5. (Only for Windows) Use pre-configured gradle(.gradle.zip) in bootcamp project.
+3. Install git.
+4. Download the bootcamp project.
 
-       1).Backup the folder C:\Users\{username}\.gradle by renaming it to .gradle.bk
-       2) Use winrar to unzip .gradle.zip and move it to C:\Users\{username}\.gradle
+       git clone https://github.com/sbir3japan/bootcamp-cordapp.git
        
-6. Open IntelliJ. From the splash screen, click `Open`.
-7. Run the test in `src/test/java/java_bootcamp/ProjectImportedOKTest.java`. It should pass!
+5. Open IntelliJ. From the splash screen, click `Open`.
+6. Run the test in `src/test/java/java_bootcamp/ProjectImportedOKTest.java`. It should pass!
 
 ## Links to useful resources
 
