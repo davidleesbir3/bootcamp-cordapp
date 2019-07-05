@@ -13,7 +13,7 @@ CorDapp is working once it passes both sets of tests defined in `src/test/java/j
 
        https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
-2. Download and install IntelliJ Community Edition (supported versions 2017.x and 2018.x)
+2. Download and install IntelliJ Community Edition (supported versions 2018.x and 2019.x)
 
        https://www.jetbrains.com/idea/
 
